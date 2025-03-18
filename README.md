@@ -53,8 +53,8 @@ An easy Telegram bot that provides daily horoscope readings for different zodiac
 - Provide weekly and monthly horoscopes
 - Integrate AI-generated horoscope predictions
 
-## 📜 License
-This project is licensed under the MIT License.
+## 📜 Note
+This is a personal project and not intended for commercial use.
 
 ---
 💫 Created with 💖
