@@ -11,7 +11,7 @@ An easy Telegram bot that provides daily horoscope readings for different zodiac
 - [📜 Note](#-note)
 
 ## 🚀 Features
-- Get daily horoscope readings for all 12 zodiac signs.
+- Get daily horoscope readings for all 12 zodiac signs!
 - **New:** Check zodiac compatibility with `/compatibility <sign1> <sign2>`.
 - **New:** Generate lucky numbers with `/lucky_numbers`.
 - **New:** Get a random motivational quote with `/quote`.
