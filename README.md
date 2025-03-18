@@ -57,4 +57,4 @@ An easy Telegram bot that provides daily horoscope readings for different zodiac
 This project is licensed under the MIT License.
 
 ---
-💫 Created with 💖 by [Your Name](https://github.com/yourusername)
+💫 Created with 💖
